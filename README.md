@@ -10,7 +10,7 @@ The P2-Net is a novel multi-task 3D prognosis prediction framework on chest CT i
 This repository provides the official PyTorch and MindSpore implementation of P2-Net in the following paper:
 
 **Multi-task Learning for Pulmonary Arterial Hypertension Prognosis Prediction via Memory Drift and Prior Prompt Learning on 3D Chest CT** <br/> 
-[Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), [Yuting He](http://19951124.academic.site/?lang=en), Yang Lv, Yang Chen,  Jean-Louis Coatrieux, Xiaoxuan Sun, Qiang Wang, Yongyue Wei, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php), Yinsu Zhu <br/>
+[Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), [Yuting He](http://19951124.academic.site/?lang=en), Yang Lv, Yang Chen,  Jean-Louis Coatrieux, Xiaoxuan Sun, Qiang Wang, Yongyue Wei, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php), Yinsu Zhu* <br/>
 Southeast University <br/>
 
 ## Official implementation
