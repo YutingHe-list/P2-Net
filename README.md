@@ -12,3 +12,10 @@ This repository provides the official PyTorch and MindSpore implementation of P2
 **Multi-task Learning for Pulmonary Arterial Hypertension Prognosis Prediction via Memory Drift and Prior Prompt Learning on 3D Chest CT** <br/> 
 [Guanyu Yang*](https://cse.seu.edu.cn/2019/0103/c23024a257233/page.htm), [Yuting He](http://19951124.academic.site/?lang=en), Yang Lv, Yang Chen,  Jean-Louis Coatrieux, Xiaoxuan Sun, Qiang Wang, Yongyue Wei, [Shuo Li](http://www.digitalimaginggroup.ca/members/shuo.php), Yinsu Zhu <br/>
 Southeast University <br/>
+
+## Official implementation
+- [PyTorch/](https://github.com/YutingHe-list/P2-Net/tree/main/pytorch)
+- [MindSpore/](https://github.com/YutingHe-list/P2-Net/tree/main/mindspore)
+
+## Acknowledgments
+This research was supported by the National Key Research and Development Program of China (2017YFC0109202), National Natural Science Foundation under grants (31800825, 31571001, 61828101), Excellence Project Funds of Southeast University, CAAI-Huawei MindSpore Open Fund and Scientific Research Foundation of Graduate School of Southeast University (YBPY2139). We thank the Big Data Computing Center of Southeast University for providing the facility support on the numerical calculations in this paper. 
