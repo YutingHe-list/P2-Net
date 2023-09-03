@@ -17,5 +17,20 @@ Southeast University <br/>
 - [PyTorch/](https://github.com/YutingHe-list/P2-Net/tree/main/pytorch)
 - [MindSpore/](https://github.com/YutingHe-list/P2-Net/tree/main/mindspore)
 
+## Citation
+If you use this code or use our pre-trained weights for your research, please cite our papers:
+```
+@article{yang2023multi,
+  title={Multi-Task Learning for Pulmonary Arterial Hypertension Prognosis Prediction via Memory Drift and Prior Prompt Learning on 3D Chest CT},
+  author={Yang, Guanyu and He, Yuting and Lv, Yang and Chen, Yang and Coatrieux, Jean-Louis and Sun, Xiaoxuan and Wang, Qiang and Wei, Yongyue and Li, Shuo and Zhu, Yinsu},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={27},
+  number={4},
+  pages={1967--1978},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
 ## Acknowledgments
 This research was supported by the National Key Research and Development Program of China (2017YFC0109202), National Natural Science Foundation under grants (31800825, 31571001, 61828101), Excellence Project Funds of Southeast University, CAAI-Huawei MindSpore Open Fund and Scientific Research Foundation of Graduate School of Southeast University (YBPY2139). We thank the Big Data Computing Center of Southeast University for providing the facility support on the numerical calculations in this paper. 
